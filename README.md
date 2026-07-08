@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Jay !</h1>
-<h3 align="center">Full Stack Developer • Building production-style systems</h3>
+
+<h3 align="center">Full Stack Developer</h3>
+<h4 align="center">Building production-style systems</h4>
 
 <p align="center">
   <a href="https://jay-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
