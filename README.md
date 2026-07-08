@@ -11,9 +11,6 @@
   <a href="mailto:imjaydigambarshelke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Pune%2C%20India-000000?style=flat&logo=googlemaps&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/imjay05?theme=dark&font=Space%20Mono&ext=heatmap" alt="Jay's LeetCode stats" />
-</p>
 
 ---
 
