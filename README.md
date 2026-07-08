@@ -73,4 +73,4 @@ A friends-only chat app built around presence, not permanence — messages have 
 
 ---
 
-<p align="center"><i>Building things that actually have to work, not just demo well.</i></p>
+<p align="center"><i>Building things that actually have to work.</i></p>
