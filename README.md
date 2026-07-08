@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. in Information Technology, Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus (SPPU) — Expected June 2027
-- 🛠️ I build full-stack MERN systems that solve real engineering problems — transactional data integrity, third-party API resilience, rate limiting, and AI-powered pipelines — not just tutorial clones
+- 🛠️ I build full-stack MERN systems that solve real engineering problems — transactional data integrity, third-party API resilience, rate limiting, and AI-powered pipelines.
 - 🤖 Comfortable working with LLMs (Groq / LLaMA) for multi-modal AI features
 - 📚 Strong foundation in Java, OOP, and Data Structures & Algorithms
 - 📫 Reach me at **imjaydigambarshelke@gmail.com**
