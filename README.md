@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Developer • Building production-style systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jay-shelke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jay-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jay-shelke-4323a22a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:imjaydigambarshelke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Pune%2C%20India-000000?style=flat&logo=googlemaps&logoColor=white" />
 </p>
@@ -15,6 +16,7 @@
 - 🛠️ I build full-stack MERN systems that solve real engineering problems — transactional data integrity, third-party API resilience, rate limiting, and AI-powered pipelines.
 - 🤖 Comfortable working with LLMs (Groq / LLaMA) for multi-modal AI features
 - 📚 Strong foundation in Java, OOP, and Data Structures & Algorithms
+- 🌐 Check out my work at **[jay-developer.vercel.app](https://jay-developer.vercel.app/)**
 - 📫 Reach me at **imjaydigambarshelke@gmail.com**
 
 ---
@@ -62,7 +64,6 @@ A friends-only chat app built around presence, not permanence — messages have 
 - `React` `Node.js` `Express` `MongoDB` `Socket.io` `Cloudinary` `Tailwind`
 
 ---
-
 
 ### 🏆 Certifications
 
