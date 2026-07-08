@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jay Shelke 👋</h1>
+<h1 align="center">Hi, I'm Jay !</h1>
 <h3 align="center">Full Stack Developer • Building production-style systems</h3>
 
 <p align="center">
