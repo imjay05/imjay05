@@ -18,7 +18,7 @@
 
 - 🎓 B.E. in Information Technology, Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus (SPPU) — Expected June 2027
 - 🛠️ I build full-stack systems that solve real engineering problems — transactional data integrity, third-party API resilience, rate limiting, and AI-powered pipelines.
-- 🤖 Working with LLMs (Groq / LLaMA) for multi-modal AI features
+- 🤖 Working with LLMs for multi-modal AI features
 - 📚 Strong foundation in Java, OOP, and Data Structures & Algorithms
 - 🌐 Check out my work at **[jay-developer.vercel.app](https://jay-developer.vercel.app/)**
 - 📫 Reach me at **imjaydigambarshelke@gmail.com**
