@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jay !</h1>
-<h3 align="center">Full-Stack Developer building production-style systems</h3>
+<h3 align="center">Full-Stack Developer building Production-style Systems</h3>
 
 <p align="center">
   <a href="https://github.com/imjay05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
@@ -38,6 +38,7 @@
 
 **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Third-Party / AI Integrations**
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
