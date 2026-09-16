@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. in Information Technology, Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus (SPPU) — Expected June 2027
-- 🛠️ I build full-stack MERN systems that solve real engineering problems — transactional data integrity, third-party API resilience, cost-aware AI pipelines, and payment security — not just tutorial-style CRUD apps
+- 🛠️ I build full-stack MERN systems that solve real engineering problems —  third-party API resilience
 - 📫 Reach me at **imjaydigambarshelke@gmail.com**
 
 ---
@@ -49,18 +49,19 @@ A MERN trading platform simulating real-world investing — wallet funding via a
 
 ### 🧰 Tech Stack
 
-**Languages & Runtime**
+**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
 
 **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 **Database**
@@ -69,17 +70,6 @@ A MERN trading platform simulating real-world investing — wallet funding via a
 **Third-Party / AI Integrations**
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjay05&show_icons=true&theme=default" alt="Jay's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjay05" alt="Jay's GitHub streak" height="165"/>
-</p>
-
----
-
-<p align="center"><i>HealthLense — because everyone deserves to understand their own health.<br/>ArcTrade — trading, without the risk of real money.</i></p>
